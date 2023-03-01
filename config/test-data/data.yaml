@@ -1,0 +1,10 @@
+city:
+  irvine:
+    latitude: 33.67
+    longitude: -117.82
+  los-angeles:
+    latitude: 34.05
+    longitude: -118.24
+  san-jose:
+    latitude: 37.34
+    longitude: -121.89

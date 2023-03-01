@@ -1,0 +1,9 @@
+venv
+.DS_Store
+.pytest_cache
+**/__pycache__/
+**/test-output/logs/LOG*
+**/test-output/console/*.log
+**/test-output/results/*.xml
+**/test-output/reports/*.html
+**/test-output/reports/assets/
